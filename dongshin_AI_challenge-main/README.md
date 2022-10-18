@@ -15,6 +15,8 @@
     pip install mediapipe
     pip install open-cv
     pip install pyautogui
+    
+cmd에 안해주면 작동 안됨
 
 
 
