@@ -11,6 +11,13 @@
 - cv2
 - pyautogui
 
+
+    pip install mediapipe
+    pip install cv2
+    pip install pyautogui
+
+
+
 ### 캠세팅
     capture = cv2.VideoCapture(0)    #0번 캠 인식
     capture.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)    #가로넓이
