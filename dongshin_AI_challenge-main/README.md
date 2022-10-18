@@ -13,7 +13,7 @@
 
 ### 모듈 다운
     pip install mediapipe
-    pip install cv2
+    pip install open-cv
     pip install pyautogui
 
 
